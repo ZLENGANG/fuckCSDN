@@ -3,7 +3,7 @@
   "name": "CSDN页面优化",
   "manifest_version": 2,
   "version": "1.0",
-  "description": "自动显示博客全文，去掉广告，重置布局，添加背景图片",
+  "description": "自动显示博客全文，去掉广告，重置布局，可设置背景图片",
   "icons": {
     "128": "images/icon128.png"
   },
