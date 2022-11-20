@@ -1,0 +1,11 @@
+本插件功能——
+对CSDN页面进行优化以获得良好阅读体验。
+如去除页面底部登录注册的长条和左侧轮播广告，自动显示全文
+
+手动加载本地插件到Chrome步骤——
+1. 点击Clone or download，选择Download ZIP，解压
+2. Chrome地址栏输入chrome://extensions/，回车，“开发者模式”选项打开
+3. “打包扩展程序”→填解压文件夹的完整路径 → “加载已解压的扩展程序” → 再次找到该路径并确定
+
+Chrome商店下载链接——
+https://chrome.google.com/webstore/detail/csdn%E9%A1%B5%E9%9D%A2%E4%BC%98%E5%8C%96/pbhajdlkdeofhoicgdkanbbkdnglajkd?hl=en
